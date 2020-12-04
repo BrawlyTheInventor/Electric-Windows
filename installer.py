@@ -5,7 +5,7 @@ import os
 os.system('pip install tqdm')
 os.system('pip install requests')
 os.system('pip install click')
-os.system('pip install appJar')
+os.system('pip install PyQt5==5.9.2')
 
 
 import click
